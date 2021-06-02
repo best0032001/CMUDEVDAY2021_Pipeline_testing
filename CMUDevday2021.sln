@@ -5,9 +5,11 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CMUDevday2021", "CMUDevday2021\CMUDevday2021.csproj", "{FEE6AD9E-014C-4867-9487-07299D6C766C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestRepository", "UnitTestRepository\UnitTestRepository.csproj", "{48818523-49E6-448B-8B34-DAF9FE45E51A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTestRepository", "UnitTestRepository\UnitTestRepository.csproj", "{48818523-49E6-448B-8B34-DAF9FE45E51A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiTest", "ApiTest\ApiTest.csproj", "{69DA97B7-8136-4EF8-A848-4A9D1636EFAF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiTest", "ApiTest\ApiTest.csproj", "{69DA97B7-8136-4EF8-A848-4A9D1636EFAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UITest", "UITest\UITest.csproj", "{0AD60A12-14F7-4F07-BCBD-8FE0CBD51169}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{69DA97B7-8136-4EF8-A848-4A9D1636EFAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69DA97B7-8136-4EF8-A848-4A9D1636EFAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69DA97B7-8136-4EF8-A848-4A9D1636EFAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AD60A12-14F7-4F07-BCBD-8FE0CBD51169}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AD60A12-14F7-4F07-BCBD-8FE0CBD51169}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AD60A12-14F7-4F07-BCBD-8FE0CBD51169}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AD60A12-14F7-4F07-BCBD-8FE0CBD51169}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
